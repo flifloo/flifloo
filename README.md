@@ -14,7 +14,7 @@ I work on a lot of ~~dead/abandoned~~ projects, trying new things
 
 ### Projects outside of GitHub
 - [L'ETU](https://forge.univ-lyon1.fr/LETU/LETU) | University wide website for tutored project
-- [CANNES](https://forge.univ-lyon1.fr/cannes-cpoa) |  University project, management of planning and accommodation for the Cannes festival
+- [CANNES](https://forge.univ-lyon1.fr/cannes-cpoa) (Archived) |  University project, management of planning and accommodation for the Cannes festival
 
 ## ProjectsToDo.java
 - CircleOfFriends | A friend circle web generator for Discord
