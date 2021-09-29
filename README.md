@@ -1,6 +1,6 @@
 # Florian charlaix
 
-Computer science student at [Lyon 1](https://iut.univ-lyon1.fr) and volunteer at [Sapinet](https://sapinet.fr)
+DevOps professional bachelor student at [Lyon 1](https://iut.univ-lyon1.fr), working at [Open-DSI](https://www.open-dsi.fr) and volunteer at [Sapinet](https://sapinet.fr)
 
 ## AboutMe.py
 
