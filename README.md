@@ -20,5 +20,5 @@ I work on a lot of ~~dead/abandoned~~ projects, trying new things
 - CircleOfFriends | A friend circle web generator for Discord
 
 ## OtherSocialsLinks.c
+- [GitLab](https://git.flifloo.fr/flifloo)
 - [LinkedIn](https://www.linkedin.com/in/florian-charlaix/)
-
