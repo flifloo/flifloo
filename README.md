@@ -1,10 +1,10 @@
 # Florian charlaix
 
-DevOps professional bachelor student at [Lyon 1](https://iut.univ-lyon1.fr), working at [Open-DSI](https://www.open-dsi.fr) and volunteer at [Sapinet](https://sapinet.fr)
+DevOps professional bachelor student at [Lyon 1](https://iut.univ-lyon1.fr), working at [Open-DSI](https://www.open-dsi.fr)
 
 ## AboutMe.py
 
-I'm a 20 old student who love programmation, new technologies and a lot of other internet's stuff.
+I'm a 21 old student who love programmation, new technologies and a lot of other internet's stuff.
 
 ## Projects.js
 
